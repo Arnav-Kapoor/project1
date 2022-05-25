@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 newText edited in act1
+=======
+newText is updated
+>>>>>>> act2
